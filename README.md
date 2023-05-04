@@ -1,2 +1,2 @@
 # alx-interview
--p #Pascal_taiangle
+Interview programming tests
